@@ -1,5 +1,8 @@
 {
   "license": "UNLICENSED",
+  "scripts": {
+    "test:watch": "yarn jest --watch"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.3",
     "@types/node": "^16.11.11",
